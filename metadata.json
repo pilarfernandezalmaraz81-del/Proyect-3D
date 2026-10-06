@@ -1,0 +1,6 @@
+{
+  "name": "Project 3D — Fabricación Industrial e Impresión 3D",
+  "description": "Plataforma industrial de impresión 3D y fabricación bajo demanda en Torrijos (Toledo). Sube tu archivo STL/STEP/OBJ, analiza la geometría en 3D, obtén presupuesto orientativo al instante y sigue la trazabilidad de tus pedidos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
